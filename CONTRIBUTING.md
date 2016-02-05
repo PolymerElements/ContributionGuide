@@ -1,7 +1,12 @@
-# Polymer Elements
-## Guide for Contributors
+# Contributing to the Polymer Elements
 
-Polymer Elements are built in the open, and the Polymer authors eagerly encourage any and all forms of community contribution. When contributing, please follow these guidelines:
+🎉First of all, thank you for taking time to contribute! 🎉
+
+Polymer Elements are built in the open, and the Polymer authors eagerly encourage any and all forms of community contribution.
+
+Each element is "owned" by some members of the Polymer team, which you can find in **OWNERS.md** file. They will be your main point of contact, so please cc them when filing an issue or submitting a PR. This will help with triage and making sure your issue or PR is looked at by the right people.
+
+When contributing, please follow the guidelines below.
 
 ### Filing Issues
 
