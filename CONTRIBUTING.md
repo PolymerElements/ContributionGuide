@@ -37,6 +37,15 @@ Polymer Elements are built in the open, and the Polymer authors eagerly encourag
 
  3. **A list of browsers where the problem occurs.** This can be skipped if the problem is the same across all browsers.
 
+### Running component demos and tests locally
+
+You will need the [Polymer command-line interface](https://www.polymer-project.org/1.0/docs/tools/polymer-cli).
+
+ 1. Clone the desired PolymerElements component repo.
+ 2. Install the component's dependencies: `bower install`.
+ 3. To run the component's demo: `polymer serve --open`.
+ 4. To run the component's tests: `polymer test`.
+
 ### Submitting Pull Requests
 
 **Before creating a pull request**, please ensure that an issue exists for the corresponding change in the pull request that you intend to make. **If an issue does not exist, please create one per the guidelines above**. The goal is to discuss the design and necessity of the proposed change with Polymer authors and community before diving into a pull request.
